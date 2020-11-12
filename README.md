@@ -11,3 +11,8 @@ The bubble and arrow show the direction as the crows fly to the place. The accur
 
 **Terms of Use**
 Use freely as you are being mindful about surroundings like traffic when using the app. Don't use it in criminal activities or purposes.
+
+**Subscription and Pricing**
+SeekNav is offered with free trial for one month. Thereafter the app is charged at 0.49$/month. Subscription is handled by Apple, via App Store and can be seen in Settings > Apple ID > Subscriptions. You have to be logged in with your apple id on your iPhone to see it.
+If you want to stop using SeekNav and have subscription. It needs to be cancelled in the settings mentioned. Uninstalling the app during free trial might result in losing the free trial period
+After 1 month you will be promted to start the subscription. This is done by tapping the button "0.49$/month" when the message appears. Thereafter the subscription is renewed every month from the day it was started.
