@@ -10,7 +10,7 @@ Make a text search. Raise the phone. If there are hits on your search they will 
 The bubble and arrow show the direction as the crows fly to the place. The accuracy should be expected to be around 30 meters. Some local temporary magnetic disturbances can cause innaccuracy, in this case i'ts best to just try and keep walking out of it.
 
 **Terms of Use**:
-Use freely as you are being mindful about surroundings like traffic when using the app. Don't use it in criminal activities or purposes.
+Use freely as long as you are being mindful about surroundings like traffic when using the app. Don't use it in criminal activities or purposes.
 
 **Subscription and Pricing**:
 SeekNav is offered with free trial for one month. Thereafter the app is charged at 0.49$/month. Subscription is handled by Apple, via App Store and can be seen in Settings > Apple ID > Subscriptions. You have to be logged in with your apple id on your iPhone to see it. <br />
